@@ -1,0 +1,13 @@
+:root {
+    --cream-color: #f0efdf;
+    --dark-purple: #54048a;
+    --dark-green: #366b0f;
+}
+
+body {
+    background-color: var(--cream-color);
+}
+
+nav {
+    background-color: var(--dark-purple);
+}
