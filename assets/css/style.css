@@ -6,8 +6,10 @@
 
 body {
     background-color: var(--cream-color);
+    color: var(--dark-purple);
 }
 
-nav {
-    background-color: var(--dark-purple);
+.navbar-custom {
+    color: var(--dark-purple);
+    background-color: var(--cream-color);
 }
